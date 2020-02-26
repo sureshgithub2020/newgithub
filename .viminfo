@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1582730240,,"wq!"
+|2,0,1582730560,,"wq!"
 :q
 |2,0,1582730200,,"q"
 
@@ -27,22 +27,30 @@
 # Registers:
 
 # File marks:
-'0  1  40  ~/newfolder/script1.sh
-|4,48,1,40,1582730240,"~/newfolder/script1.sh"
-'1  1  0  ~/newfolder/script1.sh
-|4,49,1,0,1582730200,"~/newfolder/script1.sh"
-'2  2  37  ~/script2.sh
-|4,50,2,37,1582728269,"~/script2.sh"
-'3  2  28  ~/script1.sh
-|4,51,2,28,1582728222,"~/script1.sh"
-'4  3  37  ~/README.md
-|4,52,3,37,1582727770,"~/README.md"
-'5  2  0  ~/.ssh/authorized_keys
-|4,53,2,0,1582725628,"~/.ssh/authorized_keys"
+'0  1  40  ~/newfolder/script2.sh
+|4,48,1,40,1582730560,"~/newfolder/script2.sh"
+'1  1  40  ~/newfolder/script1.sh
+|4,49,1,40,1582730240,"~/newfolder/script1.sh"
+'2  1  0  ~/newfolder/script1.sh
+|4,50,1,0,1582730200,"~/newfolder/script1.sh"
+'3  2  37  ~/script2.sh
+|4,51,2,37,1582728269,"~/script2.sh"
+'4  2  28  ~/script1.sh
+|4,52,2,28,1582728222,"~/script1.sh"
+'5  3  37  ~/README.md
+|4,53,3,37,1582727770,"~/README.md"
+'6  2  0  ~/.ssh/authorized_keys
+|4,54,2,0,1582725628,"~/.ssh/authorized_keys"
 
 # Jumplist (newest first):
+-'  1  40  ~/newfolder/script2.sh
+|4,39,1,40,1582730560,"~/newfolder/script2.sh"
 -'  1  40  ~/newfolder/script1.sh
 |4,39,1,40,1582730240,"~/newfolder/script1.sh"
+-'  1  40  ~/newfolder/script1.sh
+|4,39,1,40,1582730240,"~/newfolder/script1.sh"
+-'  1  0  ~/newfolder/script1.sh
+|4,39,1,0,1582730200,"~/newfolder/script1.sh"
 -'  1  0  ~/newfolder/script1.sh
 |4,39,1,0,1582730200,"~/newfolder/script1.sh"
 -'  2  37  ~/script2.sh
@@ -53,6 +61,22 @@
 |4,39,2,37,1582728269,"~/script2.sh"
 -'  2  37  ~/script2.sh
 |4,39,2,37,1582728269,"~/script2.sh"
+-'  2  37  ~/script2.sh
+|4,39,2,37,1582728269,"~/script2.sh"
+-'  2  37  ~/script2.sh
+|4,39,2,37,1582728269,"~/script2.sh"
+-'  2  37  ~/script2.sh
+|4,39,2,37,1582728269,"~/script2.sh"
+-'  2  37  ~/script2.sh
+|4,39,2,37,1582728269,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1582728229,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1582728229,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1582728229,"~/script2.sh"
+-'  1  0  ~/script2.sh
+|4,39,1,0,1582728229,"~/script2.sh"
 -'  1  0  ~/script2.sh
 |4,39,1,0,1582728229,"~/script2.sh"
 -'  1  0  ~/script2.sh
@@ -77,6 +101,38 @@
 |4,39,2,28,1582728222,"~/script1.sh"
 -'  2  28  ~/script1.sh
 |4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  2  28  ~/script1.sh
+|4,39,2,28,1582728222,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
+-'  1  0  ~/script1.sh
+|4,39,1,0,1582728192,"~/script1.sh"
 -'  1  0  ~/script1.sh
 |4,39,1,0,1582728192,"~/script1.sh"
 -'  1  0  ~/script1.sh
@@ -125,6 +181,38 @@
 |4,39,3,37,1582727770,"~/README.md"
 -'  3  37  ~/README.md
 |4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
+-'  3  37  ~/README.md
+|4,39,3,37,1582727770,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1582727701,"~/README.md"
 -'  1  0  ~/README.md
@@ -155,94 +243,15 @@
 |4,39,1,0,1582727701,"~/README.md"
 -'  1  0  ~/README.md
 |4,39,1,0,1582727701,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1582727701,"~/README.md"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  2  0  ~/.ssh/authorized_keys
-|4,39,2,0,1582725628,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
--'  1  0  ~/.ssh/authorized_keys
-|4,39,1,0,1582725584,"~/.ssh/authorized_keys"
 
 # History of marks within files (newest to oldest):
+
+> ~/newfolder/script2.sh
+	*	1582730556	0
+	"	1	40
+	^	1	41
+	.	1	24
+	+	1	24
 
 > ~/newfolder/script1.sh
 	*	1582730237	0
